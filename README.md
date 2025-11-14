@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h3 align="center">A passionate developer from YOUR COUNTRY</h3>
 
-<!--
-**sahilbhatiapcacc-cmyk/sahilbhatiapcacc-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on **My Awesome Projects**
+- 🌱 I’m learning **Next.js, AI, DevOps**
+- 💬 Ask me about **JavaScript, Python, APIs**
+- ⚡ Fun fact: **I debug 3x faster with coffee ☕**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Dynamic Stats
+
+<!-- START_SECTION:stats -->
+*Loading dynamic stats…*
+<!-- END_SECTION:stats -->
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
+
+---
+
+### 🧩 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+---
+
+### 💡 Random Dev Quote (Auto-Updated)
+<!-- START_SECTION:quote -->
+*Loading quote…*
+<!-- END_SECTION:quote -->
+
+---
+
+### 🕒 Last Updated
+⏳ *This page updates automatically every day using GitHub Actions.*
