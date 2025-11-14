@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">A passionate developer from YOUR COUNTRY</h3>
+<h1 align="center">Hi 👋, I'm SAHIL!!</h1>
+<h3 align="center">A passionate developer from INDIA</h3>
 
 ---
 
@@ -18,6 +18,7 @@
 <!-- END_SECTION:stats -->
 
 ---
+https://github-readme-stats.hackclub.dev/api/wakatime?username=22826&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=gotham
 
 ### 🔥 GitHub Streak
 <p align="center">
